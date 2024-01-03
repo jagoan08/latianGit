@@ -1,1 +1,2 @@
 latian apa itu gitignore
+aad new line.txt
